@@ -40,9 +40,7 @@ def abrir_janela():  #Cria a janela principal da aplicação
     nome = str(input("Digite seu nome: "))
 
     janela = Tk()
-
-    janela.iconbitmap(f"D:\\procurar.ico")
-
+    
     #Define o tamanho da janela e o título
     janela.geometry("550x250")
     janela.title("Avaliação - Laboratório de Programação (Sistema de cadastros)")
