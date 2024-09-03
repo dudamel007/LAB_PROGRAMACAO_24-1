@@ -1,4 +1,4 @@
-#LABORATÓRIO DE PROGRAMAÇÃO
+LABORATÓRIO DE PROGRAMAÇÃO
 
 Prova avaliativa da disciplina de laboratório de programação
 
